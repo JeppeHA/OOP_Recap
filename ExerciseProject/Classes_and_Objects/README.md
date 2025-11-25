@@ -11,5 +11,6 @@ Write a class function that takes two integers and returns them divided as a dou
 
 Create a ```Library``` class that can hold different objects of a ```Games``` class.
 The program should be able to display all games in the library, and you should be able to add or remove games.
+The ```Games``` class should have a constructor that initialize different aspect of the game  ```Title```, ```Year of realse```,  ```Price``` and  ```Size of the game```. 
 
 
