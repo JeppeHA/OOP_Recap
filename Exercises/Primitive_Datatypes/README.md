@@ -1,3 +1,0 @@
-# Primitive datatypes
-
-## 1.
