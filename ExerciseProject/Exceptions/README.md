@@ -8,7 +8,7 @@ happende when you tried to send over all the files.
 
 a) Identify which exception is caused by the current implementation without running the code.
 
-b) Handle and fix the error with a try catch.
+b) Handle and fix the error so that the newDrive contains the files from old drive and the new files.
 
 ```
 string[] oldDrive = { "oldfile1", "oldfile2", "oldfile3" };
